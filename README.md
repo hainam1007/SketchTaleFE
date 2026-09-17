@@ -1,6 +1,6 @@
 # SketchTale public website
 
-React 19 + Vite 8, JavaScript/JSX, React Router và CSS thuần. Giao diện tiếng Việt cho phụ huynh có trẻ 3–6 tuổi, theo [Public Website.md](Public%20Website.md).
+React 19 + Vite 8, JavaScript/JSX, React Router và CSS thuần. Giao diện tiếng Việt cho phụ huynh có trẻ 3–6 tuổi, theo [Public Website.md](docs/Public%20Website.md).
 
 ## Chạy dự án
 
