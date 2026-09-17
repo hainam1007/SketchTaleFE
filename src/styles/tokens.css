@@ -1,0 +1,29 @@
+:root {
+  --color-primary: #f7bd35;
+  --color-primary-light: #f9c42a;
+  --color-primary-dark: #f0b630;
+  --color-background: #fff9ec;
+  --color-surface: #ffffff;
+  --color-surface-soft: #fff4fa;
+  --color-text-primary: #001050;
+  --color-text-secondary: #6b7280;
+  --color-blue: #46dcf7;
+  --color-blue-dark: #48bcfc;
+  --color-coral: #fc6c78;
+  --color-yellow-accent: #fcd800;
+  --color-mint: #44f8e0;
+  --color-border: #e9e9ef;
+  --radius-input: 10px;
+  --radius-card: 20px;
+  --radius-button: 999px;
+  /* Layers: document 0, sticky header 10, keyboard skip link 20. */
+  --z-header: 10;
+  --z-skip: 20;
+  color-scheme: light;
+  font-family: "Nunito Variable", Nunito, system-ui, sans-serif;
+  color: var(--color-text-primary);
+  background: var(--color-background);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
